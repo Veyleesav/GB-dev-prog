@@ -1,9 +1,9 @@
 #Как бы я реально сделал
-#arr=[1,2,3,4,5,6]
-#revArr=[]
-#for i in range(len(arr),-1,-1):
-#    revArr.append(i)
-#print(revArr)
+arr=[1,2,3,4,5,6]
+revArr=[]
+for i in range(len(arr),-1,-1):
+    revArr.append(i)
+print(revArr)
 
 #Как, наверное, ожидается
 arr=[1,2,3,4,5,6]

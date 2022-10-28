@@ -1,6 +1,2 @@
-a=1
-b=2
-c=3
-d=4
-arr=[a,b,c,d]
+arr=[1,2,3,4,7,9,124,74652]
 print(sum(arr)/len(arr))

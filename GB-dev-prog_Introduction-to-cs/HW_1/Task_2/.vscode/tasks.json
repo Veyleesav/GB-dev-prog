@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/HW_1/Task_2/GB-dev-prog_Introduction-to-cs.csproj",
+                "${workspaceFolder}/GB-dev-prog_Introduction-to-cs.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/HW_1/Task_2/GB-dev-prog_Introduction-to-cs.csproj",
+                "${workspaceFolder}/GB-dev-prog_Introduction-to-cs.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/HW_1/Task_2/GB-dev-prog_Introduction-to-cs.csproj"
+                "${workspaceFolder}/GB-dev-prog_Introduction-to-cs.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GB-dev-prog_Introduction-to-cs/1.0.0": {
+        "runtime": {
+          "GB-dev-prog_Introduction-to-cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GB-dev-prog_Introduction-to-cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

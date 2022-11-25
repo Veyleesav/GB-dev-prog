@@ -1,0 +1,15 @@
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\bin\Debug\net6.0\GB-dev-prog_Introduction-to-cs.exe
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\bin\Debug\net6.0\GB-dev-prog_Introduction-to-cs.deps.json
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\bin\Debug\net6.0\GB-dev-prog_Introduction-to-cs.runtimeconfig.json
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\bin\Debug\net6.0\GB-dev-prog_Introduction-to-cs.dll
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\bin\Debug\net6.0\GB-dev-prog_Introduction-to-cs.pdb
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.csproj.AssemblyReference.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.AssemblyInfoInputs.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.AssemblyInfo.cs
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.csproj.CoreCompileInputs.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.dll
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\refint\GB-dev-prog_Introduction-to-cs.dll
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.pdb
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\GB-dev-prog_Introduction-to-cs.genruntimeconfig.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_Introduction-to-cs\obj\Debug\net6.0\ref\GB-dev-prog_Introduction-to-cs.dll

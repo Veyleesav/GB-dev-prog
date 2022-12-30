@@ -10,3 +10,4 @@
 <li>Вторым циклом подходящие под ограничение элементы записываются в итоговый массив</li>
 <li>Заключительный цикл выводит результат</li>
 </ul>
+<img src="https://github.com//Veyleesav/GB-dev-prog/blob/master/GB-dev-prog_specialization_choice/Homework_diagram.png?raw=true" alt=" Alt text" title="Diagram">

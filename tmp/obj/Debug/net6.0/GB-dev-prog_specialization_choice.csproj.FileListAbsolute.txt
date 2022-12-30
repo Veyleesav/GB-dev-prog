@@ -1,0 +1,15 @@
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\bin\Debug\net6.0\GB-dev-prog_specialization_choice.exe
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\bin\Debug\net6.0\GB-dev-prog_specialization_choice.deps.json
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\bin\Debug\net6.0\GB-dev-prog_specialization_choice.runtimeconfig.json
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\bin\Debug\net6.0\GB-dev-prog_specialization_choice.dll
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\bin\Debug\net6.0\GB-dev-prog_specialization_choice.pdb
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.csproj.AssemblyReference.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.AssemblyInfoInputs.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.AssemblyInfo.cs
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.csproj.CoreCompileInputs.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.dll
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\refint\GB-dev-prog_specialization_choice.dll
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.pdb
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\GB-dev-prog_specialization_choice.genruntimeconfig.cache
+C:\Users\Lev\Documents\Github\GB-dev-prog\GB-dev-prog_specialization_choice\obj\Debug\net6.0\ref\GB-dev-prog_specialization_choice.dll
